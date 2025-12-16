@@ -1,10 +1,10 @@
 # Environment variables
 .env
 
-# Python cache
+# IDE / OS files
+.DS_Store
+.idea/
 __pycache__/
 *.pyc
-
-# Virtual environments
-venv/
 .env/
+.cache/
